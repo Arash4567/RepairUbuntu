@@ -48,6 +48,11 @@ echo "Installing Postgre SQL"
 sudo apt update
 sudo apt install postgresql postgresql-contrib -y
 
+#10. Postgre SQL
+echo "Installing Git"
+sudo apt update
+sudo apt install git wget -y
+
 # Check all installing package
 echo "Well done! Congratulation all package install successfully! Happy programming! ;)"
 echo "Checking all install package"
