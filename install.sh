@@ -48,7 +48,7 @@ echo "Installing Postgre SQL"
 sudo apt update
 sudo apt install postgresql postgresql-contrib -y
 
-#10. Postgre SQL
+#10. GIT
 echo "Installing Git"
 sudo apt update
 sudo apt install git wget -y
